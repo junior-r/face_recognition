@@ -1,0 +1,6 @@
+matplotlib
+imutils
+mtcnn
+opencv-contrib-python
+face-recognition
+numpy
